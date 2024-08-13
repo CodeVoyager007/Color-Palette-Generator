@@ -157,3 +157,6 @@ button:hover {
 .color-box:hover .copy-button {
     opacity: 1;
 }
+.red{
+    color:maroon;
+}
